@@ -33,8 +33,8 @@ The aim of this research is to create a practical guide that allows students to 
 
 ## Repository Structure
 Mobile-Forensics-Open-Source-Investigation/
-- Dissertation.pdf # Full dissertation guide
-- Tools_List.md # Overview of tools and their uses
+- Mobile Forensic Open Source Investigation.pdf # Full dissertation guide https://github.com/rachelpais/Mobile-Forensics-Open-Source-Investigation/blob/main/Mobile%20Forensics%20Open%20source%20investigation.pdf
+- Tools_List.md # Overview of tools and their uses https://github.com/rachelpais/Mobile-Forensics-Open-Source-Investigation/blob/main/Tools_List.md
 - https://cfreds.nist.gov/all/NIST/MobileDeviceImages # Download of Dataset
 - README.md # This file
 
